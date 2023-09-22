@@ -1,5 +1,5 @@
 # Basic CRM using Django with MySQL Database
-Overview
+Overview:
 This is a basic Customer Relationship Management (CRM) web application built using the Django framework and MySQL database. The purpose of this project is to provide a simple yet functional CRM system that allows users to manage customer records efficiently. The application offers essential features, including user registration, login, logout, adding records, viewing records, updating records, and deleting records.
 
 Features
